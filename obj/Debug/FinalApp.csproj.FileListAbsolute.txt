@@ -1,0 +1,10 @@
+c:\users\cmdrc\source\repos\FinalApp\FinalApp\bin\Debug\FinalApp.exe.config
+c:\users\cmdrc\source\repos\FinalApp\FinalApp\bin\Debug\FinalApp.exe
+c:\users\cmdrc\source\repos\FinalApp\FinalApp\bin\Debug\FinalApp.pdb
+c:\users\cmdrc\source\repos\FinalApp\FinalApp\obj\Debug\FinalApp.csprojAssemblyReference.cache
+c:\users\cmdrc\source\repos\FinalApp\FinalApp\obj\Debug\FinalApp.Form1.resources
+c:\users\cmdrc\source\repos\FinalApp\FinalApp\obj\Debug\FinalApp.Properties.Resources.resources
+c:\users\cmdrc\source\repos\FinalApp\FinalApp\obj\Debug\FinalApp.csproj.GenerateResource.cache
+c:\users\cmdrc\source\repos\FinalApp\FinalApp\obj\Debug\FinalApp.csproj.CoreCompileInputs.cache
+c:\users\cmdrc\source\repos\FinalApp\FinalApp\obj\Debug\FinalApp.exe
+c:\users\cmdrc\source\repos\FinalApp\FinalApp\obj\Debug\FinalApp.pdb
